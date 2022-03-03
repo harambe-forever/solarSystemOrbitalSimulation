@@ -9,7 +9,7 @@ specific calculation for force values on each object
 
 ![ss2](https://user-images.githubusercontent.com/71318378/156527577-6e396d7e-eb39-441b-a49e-5125aa501085.png)
 
-sample video:
+sample video, VOLUME UP BOI:
 
 
 
