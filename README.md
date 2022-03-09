@@ -1,5 +1,5 @@
 # solarSystemOrbitalSimulation
-graphical orbitational simulation of solar system planets with real values and physics implemented so you get a nice elliptical orbits. you can change timestamp value or scale from source code idc.
+graphical orbitational simulation of solar system planets with real values and physics implemented so you get a nice elliptical orbits. you can change timestep value or scale from source code idc.
 
 general physics used in the project
 
